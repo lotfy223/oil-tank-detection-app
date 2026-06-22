@@ -7,3 +7,4 @@ opencv-python-headless>=4.9.0.80
 transformers>=4.40.0
 huggingface_hub>=0.20.0
 safetensors>=0.4.3
+torchvision
